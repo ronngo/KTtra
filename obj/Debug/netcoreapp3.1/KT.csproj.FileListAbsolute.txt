@@ -1,0 +1,13 @@
+D:\KT\bin\Debug\netcoreapp3.1\KT.exe
+D:\KT\bin\Debug\netcoreapp3.1\KT.deps.json
+D:\KT\bin\Debug\netcoreapp3.1\KT.runtimeconfig.json
+D:\KT\bin\Debug\netcoreapp3.1\KT.runtimeconfig.dev.json
+D:\KT\bin\Debug\netcoreapp3.1\KT.dll
+D:\KT\bin\Debug\netcoreapp3.1\KT.pdb
+D:\KT\obj\Debug\netcoreapp3.1\KT.csprojAssemblyReference.cache
+D:\KT\obj\Debug\netcoreapp3.1\KT.AssemblyInfoInputs.cache
+D:\KT\obj\Debug\netcoreapp3.1\KT.AssemblyInfo.cs
+D:\KT\obj\Debug\netcoreapp3.1\KT.csproj.CoreCompileInputs.cache
+D:\KT\obj\Debug\netcoreapp3.1\KT.dll
+D:\KT\obj\Debug\netcoreapp3.1\KT.pdb
+D:\KT\obj\Debug\netcoreapp3.1\KT.genruntimeconfig.cache
